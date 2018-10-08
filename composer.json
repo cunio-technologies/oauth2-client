@@ -1,5 +1,5 @@
 {
-    "name": "league/oauth2-client",
+    "name": "cunio-technologies/oauth2-client",
     "description": "OAuth 2.0 Client Library",
     "license": "MIT",
     "config": {
@@ -37,6 +37,11 @@
         {
             "name": "Woody Gilk",
             "homepage": "https://github.com/shadowhand",
+            "role": "Contributor"
+        },
+        {
+            "name": "Martin Kleine",
+            "homepage": "https://github.com/cunio-technologies",
             "role": "Contributor"
         }
 
